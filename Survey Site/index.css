@@ -1,0 +1,155 @@
+body{
+  background-color: black;
+  font-family: 'Overpass';
+  font-size: 11px;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+}
+a {
+  color: hsl(228, 45%, 44%);
+  }
+h1{
+  position: relative;
+  top: 50px;
+  text-align: left;
+  left: 35px;
+}
+p {
+  position: relative;
+  text-align: left;
+  left: 35px;
+  top: 50px;
+  width: 250px;
+  color: hsl(217, 12%, 63%);
+}
+.rating {
+  width: 350px;
+  height: 350px;
+  background-color: hsl(216, 12%, 8%);
+  border-radius: 10%;
+  position: relative;
+  left: 40%;
+  bottom: 60%;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.starbox {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 35px;
+  left: 35px;
+}
+.star{
+  position: relative;
+  top: 10px;
+}
+.attribution {
+  background-color: white;
+}
+.myButton {
+ background-color:hsl(25, 97%, 53%);
+ border-radius:28px;
+ display:inline-block;
+ cursor:pointer;
+ color:hsl(0, 0%, 100%);
+ font-size:20px;
+ padding:16px 110px;
+ text-decoration:none;
+ position: relative;
+ top:90px;
+}
+.myButton:hover {
+ background-color:hsl(0, 0%, 100%);
+ color:hsl(25, 97%, 53%);
+}
+.myButton:active {
+ position:relative;
+ transform: scale(.95);
+}
+.rateBox1 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 65px;
+  left: -50px;
+  font-size: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+.rateBox1:focus {
+  transform: scale(.95);
+  background-color: hsl(213, 19%, 18%);
+}
+.rateBox1:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+.rateBox2 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 65px;
+  left: -25px;
+  font-size: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+.rateBox2:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+.rateBox3 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 65px;
+  left: 0px;
+  font-size: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+.rateBox3:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+.rateBox4 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 65px;
+  left: 25px;
+  font-size: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+.rateBox4:hover {
+  background-color: hsl(25, 97%, 53%);
+}
+.rateBox5 {
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  position: relative;
+  background-color: hsl(216, 12%, 54%);
+  top: 65px;
+  left: 50px;
+  font-size: 30px;
+  display: inline-block;
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+}
+.rateBox5:hover {
+  background-color: hsl(25, 97%, 53%);
+}

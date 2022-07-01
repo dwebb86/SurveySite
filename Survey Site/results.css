@@ -1,0 +1,86 @@
+body{
+  background-color: black;
+  font-family: 'Overpass';
+  font-size: 11px;
+  text-align: center;
+  color: hsl(0, 0%, 100%);
+}
+a {
+  color: hsl(228, 45%, 44%);
+  }
+h1{
+  position: absolute;
+  text-align: left;
+  top: 63%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+p {
+  position: absolute;
+  text-align: left;
+  left: 35px;
+  top: 50px;
+  width: 250px;
+  color: hsl(217, 12%, 63%);
+  border-radius: 28px;
+}
+.rating {
+  width: 350px;
+  height: 350px;
+  background-color: hsl(216, 12%, 8%);
+  border-radius: 10%;
+  position: relative;
+  left: 40%;
+  bottom: 60%;
+  margin-top: 200px;
+  margin-bottom: 200px;
+}
+.responce {
+  color: hsl(25, 97%, 53%);
+  border-radius: 28px;
+  background: hsl(213, 19%, 18%);
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 16px;
+    text-align: center;
+    width: 200px;
+    height: 25px;
+    padding-top: 8px;
+}
+.attribution {
+  background-color: white;
+}
+.thankYou {
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.p2 {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+/* # Front-end Style Guide
+## Layout
+The designs were created to the following widths:
+- Mobile: 375px
+- Desktop: 1440px
+## Colors
+### Primary
+- Orange: hsl(25, 97%, 53%)
+### Neutral
+- White: hsl(0, 0%, 100%)
+- Light Grey: hsl(217, 12%, 63%)
+- Medium Grey: hsl(216, 12%, 54%)
+- Dark Blue: hsl(213, 19%, 18%)
+- Very Dark Blue: hsl(216, 12%, 8%)
+## Typography
+### Body Copy
+- Font size (paragraph): 15px
+### Font
+- Family: [Overpass](https://fonts.google.com/specimen/Overpass)
+- Weights: 400, 700
